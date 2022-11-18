@@ -8,9 +8,11 @@ export const GlobalStyle = createGlobalStyle`
   font-family: 'Nunito', sans-serif;
  
 }
+
 html{
   font-size: 62.5%;
 }
+
 body{
   background-color: #EFEDEE; 
    
